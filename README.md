@@ -1,13 +1,10 @@
-# Sample Hardhat Project
+## NFT Marketplace
+This is an NFT marketplace that allows a user to perform the basic function of a marketplace.
+A user can be able to 
+- mint non-fungible tokens (NFTs)
+- list non-fungible tokens (NFTs)
+- Sell and buy listed non-fungible tokens (NFTs)
+- Fetch market Items
+- Fetch purchased NFTs etc.   
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+This marketplace requires a one time listing fee of 0.01 ether for minted nft and bought nft.
