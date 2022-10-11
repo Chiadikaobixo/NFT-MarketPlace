@@ -8,3 +8,5 @@ A user can be able to
 - Fetch purchased NFTs etc.   
 
 This marketplace requires a one time listing fee of 0.01 ether for minted nft and bought nft.
+
+[Deployed contract on Goerli Etherscan.](https://goerli.etherscan.io/address/0x352510eBa4A0E64Da46Fa083f4C1Dd6591093375 "Nft Marketplace")    
